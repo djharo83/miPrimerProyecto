@@ -1,1 +1,2 @@
 Mi primer objetivo aprender Git con esta práctica.
+Mi Segundo objetivo es aprender JavaScript.
